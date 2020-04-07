@@ -1,0 +1,62 @@
+{
+  "user2": {
+    "password": "$2a$13$pJbw5A1JNLjy9W/3NVcKt.nMZf/vdJBBJBwUwzJYjbH8yk.1gmlSK",
+    "id": "lKG_hnYI",
+    "todos": [
+      {
+        "id": "FQRUVYqv",
+        "date": "2020-03-17T11:26:42.961Z",
+        "title": "the first todo....",
+        "isCompleted": true
+      }
+    ]
+  },
+  "wee": {
+    "password": "$2a$13$c.yxw6/MopMCe4TKKJW4We6wuL6niMNkyVvz3HR0NIw6TYeAn18qW",
+    "id": "CJiggITgp",
+    "todos": [
+      {
+        "id": "Ag5bG8yMF",
+        "date": "05/04/2020, 0:14:22",
+        "title": "one",
+        "isCompleted": false
+      },
+      {
+        "id": "V8xRYY13_",
+        "date": "05/04/2020, 0:14:28",
+        "title": "two",
+        "isCompleted": false
+      },
+      {
+        "id": "WR4H_VLp6",
+        "date": "05/04/2020, 0:14:31",
+        "title": "three",
+        "isCompleted": true
+      },
+      {
+        "id": "uUVbxdrwz",
+        "date": "07/04/2020, 15:23:58",
+        "title": "test",
+        "isCompleted": false
+      }
+    ]
+  },
+  "user": {
+    "password": "$2a$13$YNyvMb7QPEBFYw1JUfRgHeK9Uam4AmXgxUHae5FfvOVs5HwUrTK2K",
+    "id": "U8SzqyJ44",
+    "todos": [
+      {
+        "id": "RTcCZr8ZX",
+        "date": "05/04/2020, 1:22:39",
+        "title": "new one",
+        "isCompleted": false
+      },
+      {
+        "id": "RHPJvWV2q",
+        "date": "05/04/2020, 1:22:46",
+        "title": "test 222",
+        "isCompleted": false
+      }
+    ]
+  }
+}

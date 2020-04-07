@@ -1,0 +1,22 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.form {
+    display: flex;
+    width: 800px;
+    margin: 1rem auto;
+}
+
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #eee;
+    width: 800px;
+    margin: .5rem auto;
+    padding: .5rem;
+    border-radius: 3px;
+}
